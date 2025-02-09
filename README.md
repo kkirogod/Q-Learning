@@ -3,4 +3,4 @@ Two fun projects in which agents trained using Q learning have been successfully
 
 ![image](https://github.com/user-attachments/assets/8c4e6571-e5ea-49a5-9bce-f180acb16539)
 
-Para el videojuego Mario Bros se usa una versión simplificada del mismo.
+Para el videojuego Mario Bros se usa una versión simplificada del mismo, pero con mecánicas similares.
